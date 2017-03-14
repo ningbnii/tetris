@@ -1,0 +1,1 @@
+{"tetris":["src/tetris/tetrisAuto.js","src/tetris/Tetris.js","src/tetris/Backlayer.js"],"gameInit":["src/gameInit/gameInitAuto.js","src/gameInit/GameInit.js","src/gameInit/Backlayer.js"]}

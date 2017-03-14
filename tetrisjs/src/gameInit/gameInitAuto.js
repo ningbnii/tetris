@@ -1,0 +1,1 @@
+var gameInit=gameInit||{};
